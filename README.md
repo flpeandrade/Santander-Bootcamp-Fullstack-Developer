@@ -4,8 +4,8 @@
 
 <h1 align="center">Santander Bootcamp Fullstack Developer</h1>
 
-<center>Bootcamp Fullstack Developer trabalhando com Angular e Java. <br>
+<p align="center">Bootcamp Fullstack Developer trabalhando com Angular e Java. <br>
 São 120 horas de Aulas oferecidas pelo Santander em parceria com a Digital Innovation One - DIO. <br>
-Neste repositório estão as atividades realizadas ao longo do bootcamp. <br> </center>
+Neste repositório estão as atividades realizadas ao longo do bootcamp.<br></p>
 
 
