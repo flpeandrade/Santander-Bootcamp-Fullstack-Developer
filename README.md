@@ -13,9 +13,9 @@ Neste repositório estão as atividades realizadas ao longo do bootcamp.<br></p>
 
 1. Introdução à Programação e Pensamento Computacional
 
-2. Introdução ao Git e ao GitHub
+2. Introdução ao Git e ao GitHub<br>
 
-    * Desafio de projeto: [Criando repositório](https://github.com/flpeandrade/Santander-Bootcamp-Fullstack-Developer/tree/main/modulo%20I) 
+    ➤ Desafio de projeto: [Criando repositório](https://github.com/flpeandrade/Santander-Bootcamp-Fullstack-Developer/tree/main/modulo%20I) 
         - Criar um repositório para compartilhar o meu progresso ao longo do bootcamp. 
         - Além disso, adicionei o primeiro diretório denominado modulo1, contendo anotações sobre os cursos do primeiro módulo. 
 
@@ -46,7 +46,7 @@ Neste repositório estão as atividades realizadas ao longo do bootcamp.<br></p>
 
 1. Introdução a Java
     * Série de cursos: IDEs Java (Eclipse e Intellij); variáveis, tipos de dados e operadores matemáticos; entendendo métodos; lógica condicional e controle de fluxos; estruturas de repetição e arrays; trabalhando com collections; tratamento de exceções; debugging; programação orientada a objetos.<br>
-        ➤ Desafio de projeto: [Banco Digital com Java](https://github.com/flpeandrade/Santander-Bootcamp-Fullstack-Developer/tree/main/modulo%20IV/desafio-banco)
+           ➤ Desafio de projeto: [Banco Digital com Java](https://github.com/flpeandrade/Santander-Bootcamp-Fullstack-Developer/tree/main/modulo%20IV/desafio-banco)
 
 ## Módulo V
 
