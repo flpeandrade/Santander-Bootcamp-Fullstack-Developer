@@ -1,4 +1,4 @@
-# Módulo 2
+# Módulo II
 
 ## Introdução ao TypeScript
 
