@@ -25,8 +25,8 @@ Neste repositório estão as atividades realizadas ao longo do bootcamp.<br></p>
 
 2. Posicionando elementos com Flexbox em CSS
 
-3. Desafio de projeto: [Recriando Instagram](https://github.com/flpeandrade/Santander-Bootcamp-Fullstack-Developer/tree/main/modulo%20II/interface-instagram) 
-    * Recriar a página inicial do Instagram
+3. Recriar a página inicial do Instagram
+    * Desafio de projeto: [Recriando Instagram](https://github.com/flpeandrade/Santander-Bootcamp-Fullstack-Developer/tree/main/modulo%20II/interface-instagram) 
 
 4. Introdução ao JavaScript
     * Série de cursos: sintaxe e operadores; variáveis e tipos; funções; coleções; map, filter e reduce; debugging e error handling, javascript assíncrono; orientação a objetos, trabalhando com módulos em javascript; manipulando o DOM com javascript.
