@@ -13,11 +13,11 @@ Neste repositório estão as atividades realizadas ao longo do bootcamp.<br></p>
 
 1. Introdução à Programação e Pensamento Computacional
 
-2. Introdução ao Git e ao GitHub<br>
+2. Introdução ao Git e ao GitHub
 
-        - Criar um repositório para compartilhar o meu progresso ao longo do bootcamp.<br>
-        - Além disso, adicionei o primeiro diretório denominado modulo1, contendo anotações sobre os cursos do primeiro módulo. 
       ➤ Desafio de projeto: [Criando repositório](https://github.com/flpeandrade/Santander-Bootcamp-Fullstack-Developer/tree/main/modulo%20I)
+        - Criar um repositório para compartilhar o meu progresso ao longo do bootcamp.<br>
+        - Além disso, adicionei o primeiro diretório denominado modulo1, contendo anotações sobre os cursos do primeiro módulo.
 
 ## Módulo II
 
