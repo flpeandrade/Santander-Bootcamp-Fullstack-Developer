@@ -2,4 +2,4 @@
 
 ## Introdução a Java   
 
-➤ Reprodução da solução compartilhada pelo especialista.
+➤ Reprodução da solução compartilhada.
