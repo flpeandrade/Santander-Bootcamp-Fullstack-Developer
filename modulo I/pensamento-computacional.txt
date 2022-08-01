@@ -7,12 +7,10 @@ Pensamento Computacional
         * Reconhecimento de padrões
         * Abstração
         * Design de algoritmos
+        
     Habilidades Complementares:
         1. Raciocínio Lógico
- 
         2. Aperfeiçoamento
-       
-     
 
 Fundamentos de algoritmos
 
@@ -55,9 +53,7 @@ Paradigmas de Programação
 
         * Herança
         * Encapsulamento
-
         * Polimorfismo
-
         * Abstração
         
     
