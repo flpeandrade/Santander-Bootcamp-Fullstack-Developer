@@ -45,7 +45,7 @@ Neste repositório estão as atividades realizadas ao longo do bootcamp.<br></p>
 ## Módulo III
 
 1. Introdução a Angular<br>
-        ➤ Desafio de projeto: [Front-end com Angular](https://github.com/flpeandrade/Santander-Bootcamp-Fullstack-Developer/tree/main/modulo%20III/desafio-bookstore)
+        ➤ Desafio de projeto: [Front-end com Angular](https://github.com/flpeandrade/Santander-Bootcamp-Fullstack-Developer/tree/main/modulo%20III/desafio-loja)
 
 ## Módulo IV
 
